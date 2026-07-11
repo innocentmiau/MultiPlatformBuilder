@@ -1,0 +1,25 @@
+{
+  "name": "com.andreleandrodev.multiplatformbuilder",
+  "displayName": "Multi-Platform Builder",
+  "version": "1.0.0",
+  "unity": "6000.3",
+  "description": "Editor-only tool that builds the selected platforms in sequence into a versioned, organized folder structure under Builds/, with one folder per platform.",
+  "author": {
+    "name": "Andre Leandro",
+    "url": "https://github.com/innocentmiau",
+    "email": "andreleandro.dev@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/innocentmiau/multiplatformbuilder.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "build",
+    "editor",
+    "tool"
+  ],
+  "documentationUrl": "https://github.com/innocentmiau/multiplatformbuilder#readme",
+  "changelogUrl": "https://github.com/innocentmiau/multiplatformbuilder/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/innocentmiau/multiplatformbuilder/blob/main/LICENSE.md"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Andreleandrodev.MultiPlatformBuilder.Editor",
+    "references": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

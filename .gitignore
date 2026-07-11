@@ -1,0 +1,30 @@
+# Unity package repository .gitignore
+
+# OS / editor cruft
+# NOTE: no "*~" rule here on purpose - it would match the Documentation~/ folder
+# (Unity's tilde convention for editor-ignored content) and drop it from the repo.
+.DS_Store
+Thumbs.db
+*.swp
+
+# IDE
+.idea/
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.user
+*.userprefs
+
+# Unity build / library artifacts (should never live in a package repo,
+# but ignored here as a safety net if this folder is opened as a project)
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+
+# Package tarballs
+*.tgz
