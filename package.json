@@ -1,7 +1,7 @@
 {
   "name": "com.andreleandrodev.multiplatformbuilder",
   "displayName": "Multi-Platform Builder",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "unity": "6000.3",
   "description": "Editor-only tool that builds the selected platforms in sequence into a versioned, organized folder structure under Builds/, with one folder per platform.",
   "author": {
