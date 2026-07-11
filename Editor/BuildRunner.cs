@@ -4,7 +4,7 @@ using System.Linq;
 using UnityEditor;
 using UnityEditor.Build.Reporting;
 
-namespace BuildTools
+namespace MultiPlatformBuilder
 {
     public static class BuildRunner
     {

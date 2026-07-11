@@ -1,7 +1,7 @@
 using System.IO;
 using UnityEngine;
 
-namespace BuildTools
+namespace MultiPlatformBuilder
 {
     public static class BuildPathResolver
     {

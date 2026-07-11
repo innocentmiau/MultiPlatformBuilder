@@ -1,4 +1,4 @@
-namespace BuildTools
+namespace MultiPlatformBuilder
 {
     public static class BuildVersionUtility
     {

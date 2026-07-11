@@ -2,7 +2,7 @@ using System.Collections.Generic;
 using UnityEditor;
 using UnityEngine;
 
-namespace BuildTools
+namespace MultiPlatformBuilder
 {
     [FilePath("ProjectSettings/MultiPlatformBuilder.asset", FilePathAttribute.Location.ProjectFolder)]
     public class MultiPlatformBuilderSettings : ScriptableSingleton<MultiPlatformBuilderSettings>

@@ -4,7 +4,7 @@ using System.Linq;
 using UnityEditor;
 using UnityEngine;
 
-namespace BuildTools
+namespace MultiPlatformBuilder
 {
     public class MultiPlatformBuilderWindow : EditorWindow
     {

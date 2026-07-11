@@ -1,7 +1,7 @@
 using System;
 using UnityEditor;
 
-namespace BuildTools
+namespace MultiPlatformBuilder
 {
     public class BuildPlatformDefinition
     {
