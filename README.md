@@ -20,13 +20,13 @@ In Unity, open **Window > Package Manager**, click **+ > Add package from git UR
 and paste:
 
 ```
-https://github.com/innocentmiau/multiplatformbuilder.git
+https://github.com/innocentmiau/MultiPlatformBuilder.git
 ```
 
 To pin a specific release, append the tag:
 
 ```
-https://github.com/innocentmiau/multiplatformbuilder.git#v1.0.0
+https://github.com/innocentmiau/MultiPlatformBuilder.git#v1.0.0
 ```
 
 Alternatively, add it directly to your project's `Packages/manifest.json`:
@@ -34,7 +34,7 @@ Alternatively, add it directly to your project's `Packages/manifest.json`:
 ```json
 {
   "dependencies": {
-    "com.andreleandrodev.multiplatformbuilder": "https://github.com/innocentmiau/multiplatformbuilder.git#v1.0.0"
+    "com.andreleandrodev.multiplatformbuilder": "https://github.com/innocentmiau/MultiPlatformBuilder.git#v1.0.0"
   }
 }
 ```
